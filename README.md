@@ -20,7 +20,7 @@ This repository provides a clean, reproducible Python analysis of the supplied c
 - A chronological evaluation pipeline that sorts market dates, resolves the repeated date, and avoids shuffled train/test splits.
 - Linear Regression, Random Forest, and MLP models, plus an optional XGBoost model.
 - A persistence baseline that predicts the next close using the current UIC close.
-- A Jupyter walkthrough, saved holdout metrics and predictions, and generated charts.
+- An expanded Jupyter walkthrough with saved cell outputs, holdout metrics and predictions, and generated charts.
 - The original Russian coursework report and selected screenshots of the analysis and interface prototype.
 
 ## Selected project visuals
